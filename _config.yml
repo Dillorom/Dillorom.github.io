@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Dillorom learns coding
 header-img: img/home-bg.png
 email: dabdulloeva@gmail.com
 copyright_name: Dillorom
 description: > # this means to ignore newlines until "baseurl:"
-  
+  For code learners
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Dillorom
