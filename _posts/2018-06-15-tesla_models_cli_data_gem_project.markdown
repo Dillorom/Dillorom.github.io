@@ -21,15 +21,3 @@ Once the model class was ready, I called the model class with a scrape method in
 In my “menu” method in the “cli” class, I handled an exceptional model that did not have relevant information to scrape on the webpage with an “if” statement and specified actions for the application depending on when conditions met or not met. 
 
 Although the project seemed difficult initially, it went smoothly once I got started. I stumbled upon a few obstacles, but I learned through them. For example, while requiring my “cli” file in my main file in the “lib” folder, I keep getting errors, because I was specifying the folder name “lib” before “cli”, which was not needed, since the both files were inside the same folder. I also kept getting errors for displacing the order of methods to call in my “call” method in the “cli” file. I learned that the order of methods is important to pay attention, because they will fill each other with a relevant information to execute. The most difficult thing I face during my project was working with the scrape method to catch an exact information that I was looking for. Depending on the structure of websites, sometimes the process can be complicated, and now I feel proud that I handled the process well in my first CLI gem data project. 
-
-
-
-
-
-
-
-
-
-
-
-*
