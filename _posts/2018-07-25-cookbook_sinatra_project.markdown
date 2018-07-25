@@ -18,7 +18,7 @@ I realized that authorization, although not too difficult to figure out, takes t
 use Rack::Session::Cookie, :key => 'rack.session',
                            :domain => ENV.fetch(“HOSTNAME”),
                            :path => '/',
-                           :expire_after => 2592000, # In seconds
+                           :expire_after => 3600, # In seconds
                            :secret => ENV.FETCH(“SESSION_SECRET”),
 ``` 
 while removing enable: sessions. I wanted  my application automatically log a user out when the browser shuts downs or server quits. But for some reason, what I expected did not work. So I put this improvement for hold, and moved on with what I have right now. 
