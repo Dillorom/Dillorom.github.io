@@ -1,15 +1,14 @@
 # Site settings
-title: Dillorom learns coding
+author: Dillorom Abdulloeva
+title: Coders go!
 header-img: img/home-bg.png
 email: dabdulloeva@gmail.com
-copyright_name: Dillorom
+copyright_name: Dillorom Abdulloeva
 description: > # this means to ignore newlines until "baseurl:"
-  For code learners
+  For code lovers
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Dillorom
-learn_profile: Dillorom
-email_username: dabdulloeva@gmail.com
 
 # Build settings
 markdown: kramdown
