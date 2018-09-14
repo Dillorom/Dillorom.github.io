@@ -1,11 +1,11 @@
 # Site settings
 author: Dillorom Abdulloeva
-title: Coders go!
+title: Dillorom's software programming blog
 header-img: img/home-bg.png
 email: dabdulloeva@gmail.com
 copyright_name: Dillorom Abdulloeva
 description: > # this means to ignore newlines until "baseurl:"
-  For code lovers
+  Learn coding with me
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Dillorom
