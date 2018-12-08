@@ -6,7 +6,7 @@ permalink:  react_and_redux
 ---
 
 
-React/Redux are  new layers on JavaScript and  different ways of looking into things in the web development. React is mainly a view component of the MVC trio, that can go with a different MCs, but Reat itself alone can’t offer a full stack solution. That is why in my final project, I have Ruby on Rails in my back end that supports MC of the MVC trio.  React is mostly concerned about how things look, therefore taking control over the front-end. 
+React/Redux are  new layers on JavaScript and  different ways of looking into things in the web development. React is mainly a view component of the MVC trio, that can go with a different MCs, but React itself alone can’t offer a full stack solution. That is why in my final project, I have Ruby on Rails in my back end that supports MC of the MVC trio.  React is mostly concerned about how things look, therefore taking control over the front-end. 
 
 Redux is a small library that supports and improves working with React. React is good up until a certain point, and as the project expands, it becomes difficult to keep track of component props, and passing them all they day down becomes a tedious work. Redux offers a one-stop store solution, where all the properties can be stored and updated, and accessed from whatever components that needs to access to it. 
 
