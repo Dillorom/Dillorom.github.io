@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "JavaScript basics"
-date:       2019-03-04 19:00:10 +0000
+date:       2019-03-04 14:00:12 -0500
 permalink:  javascript_basics
 ---
 
@@ -43,4 +43,6 @@ console.log(“The below block is a comment”)
 */
 ```
 Most programming languages use a semicolon ; at the end of a statement. JavaScript also uses `;` after each statement to separate statements from each other. In JavaScript, you can skip `; `if each statement uses a new line, and your code still works. But it is recommended to use a semicolon after each statement, because it makes the meaning of the code clear.
+
+Read my article on [Medium](https://medium.com/@dabdulloeva/javascript-basics-1ad453ecc568).
 
